@@ -1,5 +1,5 @@
 {
-  "homepage": "http://DanielMontoya72.github.io/assigment4_interactivesteamgraph",
+  "homepage": "https://danielmontoya72.github.io/assignment4_interactivesteamgraph/",
   "name": "app1",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +14,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
