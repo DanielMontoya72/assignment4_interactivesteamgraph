@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import "./App.css";
 import FileUpload from "./FileUpload";
 import InteractiveStreamGraph from "./InteractiveStreamGraph";
-import StackComp from "./StackComp";
 
 /**
  * This is the main application component that manages the overall state and structure
